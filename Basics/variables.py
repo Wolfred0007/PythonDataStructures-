@@ -3,3 +3,5 @@ print(a)
 
 name = "Wilfred Maina"
 print(name)
+
+a = True
