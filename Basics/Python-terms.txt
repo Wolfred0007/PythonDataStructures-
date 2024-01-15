@@ -1,0 +1,31 @@
+What is Python?
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Created by Guido van Rossum and released in 1991, Python is widely used for various applications, including web development, data science, artificial intelligence, automation, and more. Its design philosophy prioritizes code readability through the use of significant indentation, making it accessible for beginners and efficient for experienced developers
+
+What is a variable?
+A variable in Python is a symbolic name associated with a memory location that stores data.
+
+What is type casting in python?
+Type casting in Python is the process of converting a variable or data from one data type to anothe
+
+List and define the data types in python. 
+Numeric Types:
+int: Represents integers, whole numbers without decimals.
+float: Represents floating-point numbers, numbers with decimals.
+complex: Represents complex numbers in the form of real + imaginary.
+Sequence Types:
+list: Ordered and mutable collections of items.
+tuple: Ordered and immutable collections of items.
+range: Represents a sequence of numbers.
+Mapping Type:
+dict: Represents a collection of key-value pairs.
+Set Types:
+set: Unordered and mutable collections of unique items.
+frozenset: Unordered and immutable collections of unique items.
+Boolean Type:
+bool: Represents boolean values - True or False.
+Text Type:
+str: Represents strings, sequences of characters.
+
+Python is an interpreted language or a hybrid language. Explain. 
+Python is fundamentally an interpreted language, its compilation step and dynamic features contribute to a hybrid nature, combining the benefits of both interpreted and compiled languages.
+
