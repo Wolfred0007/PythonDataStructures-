@@ -13,8 +13,8 @@ age=36
 # Loops
 count=10
 
-
-for s in range(0,count):
-    print("I'm sorry")
-    if s ==5:
-        print("fifth iteration")
+def sorry():
+    for s in range(0,count):
+        print("I'm sorry")
+        if s ==5:
+            print("fifth iteration")
