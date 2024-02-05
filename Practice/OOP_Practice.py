@@ -11,4 +11,11 @@ dog2=Dog("puppy", 2)
 print(my_dog.name)
 print(dog2.name)
 my_dog.sound("bark")
-  
+class Computer:
+    def programs (self, Language, make, brand) :
+        make = Language
+        Language = brand 
+        print(Language)
+
+Computer1=Computer()
+Computer1.programs("Make","brand","Hp")
